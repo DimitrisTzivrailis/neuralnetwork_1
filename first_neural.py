@@ -3,7 +3,7 @@ import pandas as pd
 from matplotlib import pyplot as plt
 
 np.seterr(divide='ignore', invalid='ignore')
-#giovani
+#mama
 def load_data(filename):
     '''
     takes as input the filename and
